@@ -4,6 +4,8 @@ SISTEMA DE CADASTRO DE PRODUTOS
 Tema Escolhido:
 Sistema de Cadastro de Produtos com Controle de Usuários
 
+Aluno: João Paulo Amorim Neves
+
 Resumo do Funcionamento:
 Este sistema permite que usuários façam login e cadastrem seus próprios produtos. Cada usuário só pode visualizar, editar e excluir os produtos que ele mesmo cadastrou. O sistema possui controle de acesso por login e senha e garante que cada usuário tenha seu próprio ambiente de cadastro.
 
